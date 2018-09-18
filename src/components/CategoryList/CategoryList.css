@@ -1,0 +1,20 @@
+h4 {
+  display: inline-block;
+  margin: 2px;
+}
+
+.label {
+  cursor: pointer;
+}
+
+.glyphicon {
+  transition: color 0.5s;
+}
+
+.category-list-body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-height: 500px;
+  overflow-y: scroll;
+}
