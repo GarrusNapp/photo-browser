@@ -1,6 +1,8 @@
 # Description
 A application that displays list of pictures from unsplash.com API, uses react + redux/redux-thunk with react-bootstrap for UI.
 
+See demo - https://garrusnapp.github.io/photo-browser/
+
 ### user stories:
 1. Allows user to search for pictures from different categories
 
